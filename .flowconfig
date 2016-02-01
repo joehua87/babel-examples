@@ -1,0 +1,10 @@
+[ignore]
+.*/node_modules/babel-helper-explode-assignable-expression/.*
+.*/node_modules/babel-helper-remap-async-to-generator/.*
+.*/node_modules/babel-helper-builder-binary-assignment-operator-visitor/.*
+
+[include]
+
+[libs]
+
+[options]
